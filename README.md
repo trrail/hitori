@@ -12,4 +12,4 @@ Hitori - головоломка
 
 # Запуск:
 * pip install -r requirements.txt
-* python main.py
+* python __main__.py
