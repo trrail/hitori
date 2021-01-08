@@ -1,4 +1,4 @@
-from hitori_game.logic.const import Color, DIRECTIONS
+from hitori.hitori_game.logic.const import Color, DIRECTIONS
 
 
 class Solver:

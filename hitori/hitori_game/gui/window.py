@@ -1,6 +1,6 @@
 import pygame
-from hitori_game.logic.game import Game
-from hitori_game.logic.const import PreparedMaps,\
+from hitori.hitori_game.logic.game import Game
+from hitori.hitori_game.logic.const import PreparedMaps,\
     RECT_WIDTH_HEIGHT, OPEN_WINDOW_SIZE
 
 

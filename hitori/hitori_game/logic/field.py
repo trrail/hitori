@@ -1,4 +1,4 @@
-from hitori_game.logic.const import Color
+from hitori.hitori_game.logic.const import Color
 
 
 class Field:

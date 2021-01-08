@@ -1,6 +1,6 @@
-from hitori_game.logic.const import PreparedMaps
-from hitori_game.logic.map import Map
-from hitori_game.logic.solver import Solver
+from hitori.hitori_game.logic.const import PreparedMaps
+from hitori.hitori_game.logic.map import Map
+from hitori.hitori_game.logic.solver import Solver
 
 
 class Game:

@@ -1,5 +1,5 @@
-from hitori_game.logic.const import PreparedMaps, Color
-from hitori_game.logic.field import Field
+from hitori.hitori_game.logic.const import PreparedMaps, Color
+from hitori.hitori_game.logic.field import Field
 
 
 class Map:

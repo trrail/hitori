@@ -6,13 +6,13 @@ OPEN_WINDOW_SIZE = (500, 500)
 
 
 class PreparedMaps(Enum):
-    FIRST_MAP = 'resourses\\' + '1.txt'
-    SECOND_MAP = 'resourses\\' + '2.txt'
-    THIRD_MAP = 'resourses\\' + '3.txt'
-    FOURTH_MAP = 'resourses\\' + '4.txt'
-    FIFTH_MAP = 'resourses\\' + '5.txt'
-    SIXTH_MAP = 'resourses\\' + '6.txt'
-    SEVENTH_MAP = 'resourses\\' + '7.txt'
+    FIRST_MAP = '../resourses/1.txt'
+    SECOND_MAP = '../resourses/2.txt'
+    THIRD_MAP = '../resourses/3.txt'
+    FOURTH_MAP = '../resourses/4.txt'
+    FIFTH_MAP = '../resourses/5.txt'
+    SIXTH_MAP = '../resourses/6.txt'
+    SEVENTH_MAP = '../resourses/7.txt'
 
 
 class Color(Enum):
